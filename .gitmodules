@@ -1,0 +1,3 @@
+[submodule "breadplan"]
+	path = breadplan
+	url = git@github.com:hawkw/breadplan.git
