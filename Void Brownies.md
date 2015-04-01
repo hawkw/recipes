@@ -1,5 +1,7 @@
-Alton Brown's Brownies
-======================
+V O I D B R O W N I E S 
+=======================
+
+Based on an Alton Brown brownie recipe w/ modifications from Cara & Lucy.
 
 Ingredients
 -----------
