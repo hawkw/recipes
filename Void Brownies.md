@@ -12,7 +12,7 @@ Ingredients
  + 1 cup sugar, sifted
  + 1 cup brown sugar, sifted
  + 8 ounces melted butter
- + 11/4 cups cocoa, sifted
+ + 1 1/4 cups cocoa, sifted
  + 2 teaspoons vanilla extract
  + 1/2 cup flour, sifted
  + 1/2 teaspoon kosher salt
