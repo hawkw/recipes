@@ -18,7 +18,7 @@ Ingredients
  + 2 teaspoons vanilla extract
  + 1/2 cup flour, sifted
  + 1 to 1/2 teaspoon kosher salt (depending on how salty you want them to be)
- + 4 teaspoons of instant espresso powder (I like Café Bustelo)
+ + 4 tablespoons of instant espresso powder (I like Café Bustelo)
  + Some chocolate chips
  
 Instructions
