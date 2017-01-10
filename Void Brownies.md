@@ -1,7 +1,7 @@
 V O I D B R O W N I E S 
 =======================
 
-Based on an Alton Brown brownie recipe w/ modifications from Cara & Lucy.
+Based on an Alton Brown brownie recipe w/ modifications from Luka
 
 Do note that while these contain no illicit or illegal substances, they are definitely worthy of classification as 'drugs'. Consume in moderation. Stay hydrated.
 
